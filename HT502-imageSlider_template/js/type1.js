@@ -15,4 +15,6 @@ $(document).ready(function(){
          $items.eq(currentIndex++).addClass("active")
          console.log(currentIndex);
     }, 2000);
+
+    
 });
